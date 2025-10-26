@@ -74,8 +74,8 @@ Tecnologías que domino. Aprendiendo constantemente nuevas y mejorando las conoc
     <td valign="top" width="33%">
       <h4>🌍 Idiomas</h4>
       <p>
-        <img src="https://flagcdn.com/h80/es.png" width="50" height="38" alt="Spanish" style="border-radius: 6px; margin-right: 10px;"/>
-        <img src="https://flagcdn.com/h80/gb.png" width="50" height="38" alt="English" style="border-radius: 6px;"/>
+        <img src="https://flagcdn.com/w80/es.png" width="60" height="40" alt="Spanish" style="border-radius: 8px; margin-right: 10px;"/>
+        <img src="https://flagcdn.com/w80/gb.png" width="60" height="40" alt="English" style="border-radius: 8px;"/>
       </p>
       <p>
         <b>Español</b> (Nativo) • <b>Inglés</b> (B2)
