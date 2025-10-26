@@ -41,7 +41,7 @@ Tecnologías que domino. Aprendiendo constantemente nuevas y mejorando las conoc
     </td>
     <td valign="top" width="33%">
       <h4>🗄 Bases de Datos</h4>
-      <img src="https://skillicons.dev/icons?i=mysql" alt="database icons" />
+      <img src="https://skillicons.dev/icons?i=mysql,firebase" alt="database icons" />
       <ul>
         <li>MySQL para bases de datos relacionales</li>
         <li>FileMaker (gestión de datos)</li>
@@ -51,7 +51,7 @@ Tecnologías que domino. Aprendiendo constantemente nuevas y mejorando las conoc
     </td>
   </tr>
   <tr>
-    <td valign="top">
+    <td valign="top" width="33%">
       <h4>🚀 DevOps & SysAdmin</h4>
       <img src="https://skillicons.dev/icons?i=linux,bash,powershell,docker" alt="devops icons" />
       <ul>
@@ -61,7 +61,7 @@ Tecnologías que domino. Aprendiendo constantemente nuevas y mejorando las conoc
         <li>Automatización de tareas</li>
       </ul>
     </td>
-    <td valign="top">
+    <td valign="top" width="33%">
       <h4>🛠 Herramientas</h4>
       <img src="https://skillicons.dev/icons?i=vscode,git,github" alt="tools icons" />
       <ul>
@@ -71,22 +71,15 @@ Tecnologías que domino. Aprendiendo constantemente nuevas y mejorando las conoc
         <li>Metodologías ágiles</li>
       </ul>
     </td>
-    <td valign="top">
+    <td valign="top" width="33%">
       <h4>🌍 Idiomas</h4>
-      <table>
-        <tr>
-          <td align="center" width="50%">
-            <img src="https://flagcdn.com/h80/es.png" width="50" height="38" alt="Spanish" style="border-radius: 6px;"/>
-            <br><b>Español</b>
-            <br><sub>Nativo</sub>
-          </td>
-          <td align="center" width="50%">
-            <img src="https://flagcdn.com/h80/gb.png" width="50" height="38" alt="English" style="border-radius: 6px;"/>
-            <br><b>Inglés</b>
-            <br><sub>B2 Certificado</sub>
-          </td>
-        </tr>
-      </table>
+      <p>
+        <img src="https://flagcdn.com/h80/es.png" width="50" height="38" alt="Spanish" style="border-radius: 6px; margin-right: 10px;"/>
+        <img src="https://flagcdn.com/h80/gb.png" width="50" height="38" alt="English" style="border-radius: 6px;"/>
+      </p>
+      <p>
+        <b>Español</b> (Nativo) • <b>Inglés</b> (B2)
+      </p>
     </td>
   </tr>
 </table>
@@ -112,8 +105,8 @@ Tecnologías que domino. Aprendiendo constantemente nuevas y mejorando las conoc
 
 Estoy disponible para nuevas oportunidades, colaboraciones o proyectos interesantes.
 
-- 🌐 Portfolio: [yuseflc.com](https://yuseflc.com)  
-- 💼 LinkedIn: [linkedin.com/in/yuseflc](https://linkedin.com/in/yuseflc)
+- 🌐 Portfolio: [yuseflc.com](https://yuseflc.pages.dev/)  
+- 💼 LinkedIn: [linkedin.com/in/yuseflc](www.linkedin.com/in/yuseflc)
 - 📧 Email: [personalyuseflaroussi@gmail.com](mailto:personalyuseflaroussi@gmail.com)
 
 
