@@ -1,4 +1,16 @@
 <div align="center">
+<style>
+  table ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  table ul li::before {
+    content: "\2192 "; /* flecha → */
+    color: #8e44ad;
+    font-weight: bold;
+    margin-right: 4px;
+  }
+</style>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=_custom_gradient,0:8e44ad,100:b19cd9&section=header&text=Hola,%20soy%20Yusef%20Laroussi%20de%20la%20Calle&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=35&fontWeight=400" alt="Header" width="100%"/>
