@@ -21,20 +21,20 @@ Tecnologías que domino. Aprendiendo constantemente nuevas y mejorando las conoc
       <h4>🎨 Frontend</h4>
       <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="frontend icons"/>
       <ul>
-        <li>HTML5, CSS3, JavaScript (ES6+).</li>
-        <li>Bootstrap para diseños completos.</li>
-        <li>Diseño web moderno y minimalista.</li>
+        <li>HTML5, CSS3, JavaScript.</li>
+        <li>Bootstrap para diseños rápidos y eficientes.</li>
+        <li>Diseños web modernos y minimalistas.</li>
         <li>Interfaces de usuario intuitivas.</li>
       </ul>
     </td>
     <td valign="top" width="33%">
       <h4>🧱 Backend</h4>
-      <img src="https://skillicons.dev/icons?i=java,php,laravel" alt="backend icons"/>
+      <img src="https://skillicons.dev/icons?i=node,java,php,laravel" alt="backend icons"/>
       <ul>
-        <li>Java para aplicaciones robustas.</li>
+        <li>Uso de Node.js para ejecutar JavaScript.</li>
         <li>PHP para desarrollo web.</li>
         <li>Actualmente aprendiendo Laravel.</li>
-        <li>Arquitectura de aplicaciones.</li>
+        <li>Manejo de Java vía NetBeans.</li>
       </ul>
     </td>
     <td valign="top" width="33%">
@@ -44,7 +44,6 @@ Tecnologías que domino. Aprendiendo constantemente nuevas y mejorando las conoc
         <li>MySQL para bases de datos relacionales.</li>
         <li>FileMaker (gestión de datos).</li>
         <li>Diseño y optimización de consultas.</li>
-        <li>Modelado de datos eficiente.</li>
       </ul>
     </td>
   </tr>
@@ -63,11 +62,11 @@ Tecnologías que domino. Aprendiendo constantemente nuevas y mejorando las conoc
       <h4>🛠 IDEs & Herramientas</h4>
       <img src="https://skillicons.dev/icons?i=vscode,github,npm,webpack" alt="tools icons"/>
       <ul>
-        <li>VS Code como editor principal.</li>
-        <li>Git & GitHub.</li>
+        <li>VsCode como editor principal.</li>
+        <li>Gran manejo de Git & GitHub.</li>
         <li>NeatBeans para proyectos Java.
-        <li>Actualmente aprendiendo npm.</li>
-        <li>Actualmente aprendiedno Webpack.</li>
+        <li>Instalaciones vía npm.</li>
+        <li>Aprendiendo el manejo de Webpack.</li>
       </ul>
     </td>
     <td valign="top" width="33%">
