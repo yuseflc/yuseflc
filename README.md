@@ -89,17 +89,17 @@ Tecnologías que domino. Aprendiendo constantemente nuevas y mejorando las conoc
 <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=_custom_gradient,0:8e44ad,100:b19cd9&text=🎯%20Destacados&fontSize=32&fontColor=ffffff&fontAlignY=50" width="100%"/>
 </div>
 
-<img src="https://cdn.jsdelivr.net/gh/feathericons/feather@main/icons/award.svg" width="20" height="20" alt="Estudiante" style="filter: brightness(2); margin-right: 8px; vertical-align: middle;"/> **Estudiante** de Ciclo Superior en Desarrollo de Aplicaciones Web.
+→ **Estudiante** de Ciclo Superior en Desarrollo de Aplicaciones Web.
 
-<img src="https://cdn.jsdelivr.net/gh/feathericons/feather@main/icons/bar-chart-2.svg" width="20" height="20" alt="Años" style="filter: brightness(2); margin-right: 8px; vertical-align: middle;"/> **4 años de estudios** relacionados con la informática.
+→ **4 años de estudios** relacionados con la informática.
 
-<img src="https://cdn.jsdelivr.net/gh/feathericons/feather@main/icons/briefcase.svg" width="20" height="20" alt="Prácticas" style="filter: brightness(2); margin-right: 8px; vertical-align: middle;"/> **4 Prácticas Profesionales** en IT Support, Database & Linux Administration.
+→ **4 Prácticas Profesionales** en IT Support, Database & Linux Administration.
 
-<img src="https://cdn.jsdelivr.net/gh/feathericons/feather@main/icons/globe.svg" width="20" height="20" alt="Frontend" style="filter: brightness(2); margin-right: 8px; vertical-align: middle;"/> **Especialista en Frontend** con diseños minimalistas y modernos.
+→ **Especialista en Frontend** con diseños minimalistas y modernos.
 
-<img src="https://cdn.jsdelivr.net/gh/feathericons/feather@main/icons/monitor.svg" width="20" height="20" alt="Linux" style="filter: brightness(2); margin-right: 8px; vertical-align: middle;"/> **Administrador de Sistemas Linux** con experiencia práctica.
+→ **Administrador de Sistemas Linux** con experiencia práctica.
 
-<img src="https://cdn.jsdelivr.net/gh/feathericons/feather@main/icons/map-pin.svg" width="20" height="20" alt="Bilingüe" style="filter: brightness(2); margin-right: 8px; vertical-align: middle;"/> **Bilingüe**: Español (Nativo) e Inglés (B2 Certificado).
+→ **Bilingüe**: Español (Nativo) e Inglés (B2 Certificado).
 
 ---
 
