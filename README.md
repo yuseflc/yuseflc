@@ -89,12 +89,12 @@ Tecnologías que domino. Aprendiendo constantemente nuevas y mejorando las conoc
 <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=_custom_gradient,0:8e44ad,100:b19cd9&text=🎯%20Destacados&fontSize=32&fontColor=ffffff&fontAlignY=50" width="100%"/>
 </div>
 
-- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/graduation-cap.svg" width="20" height="20" alt="Estudiante"/> **Estudiante** de Ciclo Superior en Desarrollo de Aplicaciones Web.
-- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/bar-chart.svg" width="20" height="20" alt="Años"/> **4 años de estudios** relacionados con la informática.
-- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/briefcase.svg" width="20" height="20" alt="Prácticas"/> **4 Prácticas Profesionales** en IT Support, Database & Linux Administration.
-- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/globe.svg" width="20" height="20" alt="Frontend"/> **Especialista en Frontend** con diseños minimalistas y modernos.
-- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/device-desktop.svg" width="20" height="20" alt="Linux"/> **Administrador de Sistemas Linux** con experiencia práctica.
-- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/globe.svg" width="20" height="20" alt="Bilingüe"/> **Bilingüe**: Español (Nativo) e Inglés (B2 Certificado).
+- <img src="https://raw.githubusercontent.com/feathericons/feather/main/icons/award.svg" width="20" height="20" alt="Estudiante"/> **Estudiante** de Ciclo Superior en Desarrollo de Aplicaciones Web.
+- <img src="https://raw.githubusercontent.com/feathericons/feather/main/icons/bar-chart-2.svg" width="20" height="20" alt="Años"/> **4 años de estudios** relacionados con la informática.
+- <img src="https://raw.githubusercontent.com/feathericons/feather/main/icons/briefcase.svg" width="20" height="20" alt="Prácticas"/> **4 Prácticas Profesionales** en IT Support, Database & Linux Administration.
+- <img src="https://raw.githubusercontent.com/feathericons/feather/main/icons/globe.svg" width="20" height="20" alt="Frontend"/> **Especialista en Frontend** con diseños minimalistas y modernos.
+- <img src="https://raw.githubusercontent.com/feathericons/feather/main/icons/monitor.svg" width="20" height="20" alt="Linux"/> **Administrador de Sistemas Linux** con experiencia práctica.
+- <img src="https://raw.githubusercontent.com/feathericons/feather/main/icons/map-pin.svg" width="20" height="20" alt="Bilingüe"/> **Bilingüe**: Español (Nativo) e Inglés (B2 Certificado).
 
 ---
 
