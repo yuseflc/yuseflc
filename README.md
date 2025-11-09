@@ -32,9 +32,9 @@ Tecnologías que domino. Aprendiendo constantemente nuevas y mejorando las conoc
       <img src="https://skillicons.dev/icons?i=nodejs,java,php,laravel" alt="backend icons"/>
       <ul>
         <li>Uso de Node.js para ejecutar JavaScript.</li>
-        <li>PHP para desarrollo web.</li>
+        <li>Manejo parcial de PHP.</li>
         <li>Actualmente aprendiendo Laravel.</li>
-        <li>Manejo de Java vía NetBeans.</li>
+        <li>Uso de Java vía NetBeans.</li>
       </ul>
     </td>
     <td valign="top" width="33%">
@@ -76,8 +76,8 @@ Tecnologías que domino. Aprendiendo constantemente nuevas y mejorando las conoc
         <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/gb.svg" width="60" height="40" alt="English" style="border-radius: 8px;"/>
       </p>
       <ul>
-        <li><b>Español</b> - Nativo</li>
-        <li><b>Inglés</b> - Nivel B2</li>
+        <li><b>Español</b> - Lengua nativoa.</li>
+        <li><b>Inglés</b> - B2 level, fluent user.</li>
       </ul>
     </td>
   </tr>
@@ -89,12 +89,12 @@ Tecnologías que domino. Aprendiendo constantemente nuevas y mejorando las conoc
 <img src="https://capsule-render.vercel.app/api?type=rect&height=60&color=_custom_gradient,0:8e44ad,100:b19cd9&text=🎯%20Destacados&fontSize=32&fontColor=ffffff&fontAlignY=50" width="100%"/>
 </div>
 
-- 🎓 **Estudiante** de Ciclo Superior en Desarrollo de Aplicaciones Web.
-- 📊 **4 años de estudios** relacionados con la informática.
-- 💼 **4 Prácticas Profesionales** en IT Support, Database & Linux Administration.
-- 🌐 **Especialista en Frontend** con diseños minimalistas y modernos.
-- 🐧 **Administrador de Sistemas Linux** con experiencia práctica.
-- 🌍 **Bilingüe**: Español (Nativo) e Inglés (B2 Certificado).
+- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/graduation-cap.svg" width="20" height="20" alt="Estudiante"/> **Estudiante** de Ciclo Superior en Desarrollo de Aplicaciones Web.
+- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/bar-chart.svg" width="20" height="20" alt="Años"/> **4 años de estudios** relacionados con la informática.
+- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/briefcase.svg" width="20" height="20" alt="Prácticas"/> **4 Prácticas Profesionales** en IT Support, Database & Linux Administration.
+- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/globe.svg" width="20" height="20" alt="Frontend"/> **Especialista en Frontend** con diseños minimalistas y modernos.
+- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/device-desktop.svg" width="20" height="20" alt="Linux"/> **Administrador de Sistemas Linux** con experiencia práctica.
+- <img src="https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/octicons/globe.svg" width="20" height="20" alt="Bilingüe"/> **Bilingüe**: Español (Nativo) e Inglés (B2 Certificado).
 
 ---
 
