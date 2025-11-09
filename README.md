@@ -19,17 +19,17 @@ Tecnologías que domino. Aprendiendo constantemente nuevas y mejorando las conoc
   <tr>
     <td valign="top" width="33%">
       <h4>🎨 Frontend</h4>
-      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="frontend icons"/>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" alt="frontend icons"/>
       <ul>
         <li>HTML5, CSS3, JavaScript.</li>
         <li>Bootstrap para diseños rápidos y eficientes.</li>
+        <li>Uso básico de React.</li>
         <li>Diseños web modernos y minimalistas.</li>
-        <li>Interfaces de usuario intuitivas.</li>
       </ul>
     </td>
     <td valign="top" width="33%">
       <h4>🧱 Backend</h4>
-      <img src="https://skillicons.dev/icons?i=node,java,php,laravel" alt="backend icons"/>
+      <img src="https://skillicons.dev/icons?i=nodejs,java,php,laravel" alt="backend icons"/>
       <ul>
         <li>Uso de Node.js para ejecutar JavaScript.</li>
         <li>PHP para desarrollo web.</li>
