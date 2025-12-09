@@ -39,10 +39,9 @@ Tecnologías que domino. Aprendiendo constantemente nuevas y mejorando las conoc
     </td>
     <td valign="top" width="33%">
       <h4>🗄 Bases de Datos</h4>
-      <img src="https://skillicons.dev/icons?i=mysql,firebase" alt="database icons"/>
+      <img src="https://skillicons.dev/icons?i=mysql" alt="database icons"/>
       <ul>
-        <li>MySQL para bases de datos relacionales.</li>
-        <li>FileMaker (gestión de datos).</li>
+        <li>Manejo en SQL para bases de datos relacionales.</li>
         <li>Diseño y optimización de consultas.</li>
       </ul>
     </td>
@@ -76,8 +75,8 @@ Tecnologías que domino. Aprendiendo constantemente nuevas y mejorando las conoc
         <img src="https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/gb.svg" width="60" height="40" alt="English" style="border-radius: 8px;"/>
       </p>
       <ul>
-        <li><b>Español</b> - Lengua nativoa.</li>
-        <li><b>Inglés</b> - B2 level, fluent user.</li>
+        <li><b>Español</b> - Lengua nativa.</li>
+        <li><b>Inglés</b> - Fluent user.</li>
       </ul>
     </td>
   </tr>
