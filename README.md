@@ -65,7 +65,7 @@ Tecnologías que domino. Aprendiendo constantemente nuevas y mejorando las conoc
         <li>Gran manejo de Git & GitHub.</li>
         <li>NeatBeans para proyectos Java.
         <li>Instalaciones vía npm.</li>
-        <li>Aprendiendo el manejo de Webpack.</li>
+        <li>Uso de Webpack al completo.</li>
       </ul>
     </td>
     <td valign="top" width="33%">
@@ -76,7 +76,7 @@ Tecnologías que domino. Aprendiendo constantemente nuevas y mejorando las conoc
       </p>
       <ul>
         <li><b>Español</b> - Lengua nativa.</li>
-        <li><b>Inglés</b> - Fluent user.</li>
+        <li><b>English</b> - Fluent user.</li>
       </ul>
     </td>
   </tr>
