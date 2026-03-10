@@ -3,19 +3,17 @@
 
 # Hi there! I'm Yusef
 
-### Software Developer & Web Development Student | Building scalable digital solutions 
+### Software Developer & Web Development Student
 
   [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/yusef-laroussi-de-la-calle-a35288235/)
   [![Slack](https://custom-icon-badges.demolab.com/badge/Slack-4A154B?logo=slack&logoColor=fff)](#)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#)
-
-
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:personalyuseflaroussi@gmail.com)
 
 
 ---
 
-### My proficiencies
+### My Proficiencies
 
   [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
   [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
@@ -34,6 +32,8 @@
   [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
   <br/>
 
+  Constantly exploring emerging technologies to solve complex problems.
+
 </div>
 
 ---
@@ -41,10 +41,8 @@
 <div align="center">
 
 
-Constantly exploring emerging technologies to solve complex problems.
-
 **[Explore my portafolio](https://yuseflc.pages.dev)** to see my latest work and achievements.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=_custom_gradient,0:ffffff,100:ffffff&section=footer" alt="Footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=_custom_gradient,0:ffffff,100:ffffff&section=footer" alt="Footer" width="100%"/>
 
 </div>
