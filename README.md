@@ -12,7 +12,7 @@
 
 <div align="center">
 
-## My Main Proficiencies
+### My Main Proficiencies
 
   [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
   [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
@@ -26,15 +26,13 @@
   [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
   <br/>
 
-  Constantly exploring emerging technologies to solve complex problems.
+  ##### **[Visit my portfolio](https://yuseflc.pages.dev)** to view recent work and additional details.
 
 </div>
 
 ***
 
 <div align="center">
-
-**[Explore my portafolio](https://yuseflc.pages.dev)** to see my latest work and achievements.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=_custom_gradient,0:ffffff,100:ffffff&section=footer" alt="Footer" width="100%"/>
 </div>
