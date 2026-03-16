@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=1z0&color=_custom_gradient,0:ffffff,100:ffffff&section=header&fontSize=40&fontColor=ffffff&animation=fadeIn&text=Hi!%20I%20am%20Yusef" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=_custom_gradient,0:ffffff,100:ffffff&section=header&fontSize=40&fontColor=ffffff&animation=fadeIn&text=Hi!%20I%20am%20Yusef" width="100%"/>
 
   [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/yusef-laroussi-de-la-calle-a35288235/)
@@ -8,7 +8,6 @@
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:personalyuseflaroussi@gmail.com)
 
 </div>
-
 
 
 <div align="center">
@@ -31,11 +30,11 @@
 
 </div>
 
----
+***
 
 <div align="center">
 
 **[Explore my portafolio](https://yuseflc.pages.dev)** to see my latest work and achievements.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=_custom_gradient,0:ffffff,100:ffffff&section=footer" alt="Footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=_custom_gradient,0:ffffff,100:ffffff&section=footer" alt="Footer" width="100%"/>
 </div>
