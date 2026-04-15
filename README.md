@@ -38,7 +38,7 @@
   [![Notion](https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff)](#)
   <br/>
 
-  ##### **[Visit my portfolio](https://yuseflc.pages.dev)** to view recent work and additional details.
+  ##### **[Visit my portfolio](https://yuseflc.dev)** to view recent work and additional details.
 
 </div>
 
